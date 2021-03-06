@@ -1,0 +1,22 @@
+.app {
+    top: 0%;
+    left: 0%;
+    background-color: black;
+}
+
+.header {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.app_bar {
+    z-index: 3;
+}
+
+.side_bar {
+    z-index: 1;
+}
